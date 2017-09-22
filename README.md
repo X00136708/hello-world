@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Computing student at ITT Dublin
